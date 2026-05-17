@@ -1,0 +1,5 @@
+{
+  "name": "Carol - Telemetry Intelligence Suite",
+  "description": "A professional-grade dashboard for security researchers to analyze and audit telemetry infrastructure. It provides specialized tools for Google Dorking, Shodan queries, and header injection payload generation for auditing complex enterprise systems.",
+  "requestFramePermissions": []
+}
